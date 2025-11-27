@@ -1,10 +1,2 @@
-let a=9
+const b=1000
 
-const bgi = () =>{
-
-return true
-}
-
-const w = () =>{
-    return false
-}
