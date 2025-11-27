@@ -5,3 +5,6 @@ const bgi = () =>{
 return true
 }
 
+const w = () =>{
+    return false
+}
