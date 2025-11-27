@@ -4,3 +4,7 @@ const bgi = () =>{
 
 return true
 }
+
+const e = () =>{
+    return true
+}
