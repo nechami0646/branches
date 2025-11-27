@@ -1,6 +1,4 @@
-const a2 = () =>{
-
-}
+let a=5
 
 const bgi = () =>{
 
